@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.gomes.vendas.online.usecase;
+package br.com.pazzini.vendas.online.usecase;
 
 import javax.validation.Valid;
 
@@ -14,7 +14,7 @@ import br.com.gomes.vendas.online.exception.EntityNotFoundException;
 import br.com.gomes.vendas.online.repository.IProdutoRepository;
 
 /**
- * @author wendel.gomes
+ * @author diego.pazzini
  *
  */
 @Service
